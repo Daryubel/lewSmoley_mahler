@@ -26,13 +26,6 @@ titles: people (`布鲁诺·瓦尔特（Bruno Walter）`), works
 programme titles (`“巨人”（Titan）`, `“少年时代”（From the Days of Youth）`).
 `Mahler` and ordinary analytical vocabulary are not annotated.
 
-## Covers
-
-`covers/` contains 20 series covers (1600×2400 JPEG) and a contact sheet
-(`covers/contact-sheet.jpg`). They use one layout across the series: navy top panel,
-large number, cream title panel, gold rule and the same footer. The matching cover is
-embedded in each EPUB and set as its `cover-image`.
-
 ## Source
 
 Texts are based on the corrected subtitles in the project root; the articles have been
